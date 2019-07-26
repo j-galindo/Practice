@@ -1,0 +1,3 @@
+Name: Jose
+Age: 24
+FavoriteColor: Black
